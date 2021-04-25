@@ -1,7 +1,16 @@
 # TheOtherHats
 Custom Hats for the [Among Us](https://innersloth.com/gameAmongUs.php) Mod *[The Other Roles](https://github.com/Eisbison/TheOtherRoles)*
 
-[TOC]
+## Table of Contents
+
+**[About][#about]**
+&emsp;[Instructions][#instructions]
+[**Releases**][#releases]
+[**Custom Hats**][#custom-hats]
+&emsp;[Megaphone][#megaphone]
+&emsp;[Speech Bubble][#speech-bubble]
+&emsp;[Bones][#bones]
+&emsp;[Stitched Head][#stitched-head]
 
 ## About
 
@@ -34,25 +43,29 @@ Custom Hats for the [Among Us](https://innersloth.com/gameAmongUs.php) Mod *[The
 
 ### Megaphone
 
-[Download](resources/hats/megaphone)
+► [Download](resources/hats/megaphone)
 
-![Preview](images/demo_megaphone.gif)
+|                                                              |                                       |
+| ------------------------------------------------------------ | ------------------------------------- |
+| ![still](C:\Users\Schiegl\Files\Bilder\35_Screenshots\demo_megaphone-still.png) | ![Preview](images/demo_megaphone.gif) |
+
+
 
 ### Speech Bubble
 
-[Download (empty bubble)](resources/hats/speech-bubble/speech-bubble_bounce.png)
+► [Download (empty bubble)](resources/hats/speech-bubble/speech-bubble_bounce.png)
 
 ![Preview](images/demo_speech-bubble.png)
 
 ### Bones
 
-[Download](resources/hats/bones)
+► [Download](resources/hats/bones)
 
 ![Preview](images/demo_bones.png)
 
 ### Stitched Head
 
-[Download](resources/hats/stitched/stitched.png)
+► [Download](resources/hats/stitched/stitched.png)
 
 ![Preview](images/demo_stitched.png)
 
