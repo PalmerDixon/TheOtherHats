@@ -46,35 +46,34 @@ Custom Hats for the [Among Us](https://innersloth.com/gameAmongUs.php) Mod *[The
 
 :arrow_down_small: ​[Download](resources/hats/megaphone)
 
-|                                    |                                       |
-| ---------------------------------- | ------------------------------------- |
-| ![demo](images/demo_megaphone.png) | ![demo](images/demo_megaphone-bg.png) |
+|                                       |                                       |
+| ------------------------------------- | ------------------------------------- |
+| ![Preview](images/demo_megaphone.png) | ![Demo](images/demo_megaphone-bg.png) |
 
 
 
 ### Speech Bubble
 
-:arrow_down_small: ​[Download (empty bubble)](resources/hats/speech-bubble/speech-bubble_bounce.png)
+:arrow_down_small: [Download (empty bubble)](resources/hats/bubble/bubble-empty_bounce.png)
 
-|                                    |                                       |
-| ---------------------------------- | ------------------------------------- |
-| ![Preview](images/demo_bubble.png) | ![Preview](images/demo_bubble-bg.png) |
+|                                    |                                    |
+| ---------------------------------- | ---------------------------------- |
+| ![Preview](images/demo_bubble.png) | ![Demo](images/demo_bubble-bg.png) |
 
 ### Bones
 
 :arrow_down_small: [Download](resources/hats/bones)
 
-|                                   |                                      |
-| --------------------------------- | ------------------------------------ |
-| ![Preview](images/demo_bones.png) | ![Preview](images/demo_bones-bg.png) |
+|                                   |                                   |
+| --------------------------------- | --------------------------------- |
+| ![Preview](images/demo_bones.png) | ![Demo](images/demo_bones-bg.png) |
 
 
 
 ### Stitched Head
 
-:arrow_down_small: [Download](resources/hats/stitched/stitched.png)
+:arrow_down_small: [Download](resources/hats/stitched)
 
-|                                      |                                         |
-| ------------------------------------ | --------------------------------------- |
-| ![Preview](images/demo_stitched.png) | ![Preview](images/demo_stitched-bg.png) |
-
+| v2                                      | v2                                               | v3                                      |
+| --------------------------------------- | ------------------------------------------------ | --------------------------------------- |
+| ![Preview](images/demo_stitched-v2.png) | ![Preview](images/demo_stitched-v2-bg.png)<br /> | ![Preview](images/demo_stitched-v3.png) |
