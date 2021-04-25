@@ -9,25 +9,25 @@ Custom Hats for the Among Us Mod 'The Other Roles'
 
 ### Megaphone
 
-[Download](resources\hats\megaphone)
+[Download](resources/hats/megaphone)
 
 ![Preview](https://i.imgur.com/bk4Lymd.gifv)
 
 ### Speech Bubble
 
-[Download (empty bubble)](resources\hats\speech-bubble\speech-bubble_bounce.png)
+[Download (empty bubble)](resources/hats/speech-bubble/speech-bubble_bounce.png)
 
-![Preview](images\demo_speech-bubble.png)
+![Preview](images/demo_speech-bubble.png)
 
 ### Bones
 
-[Download](resources\hats\bones)
+[Download](resources/hats/bones)
 
-![Preview](images\demo_bones.png)
+![Preview](images/demo_bones.png)
 
 ### Stitched Head
 
-[Download](resources\hats\stitched\stitched.png)
+[Download](resources/hats/stitched/stitched.png)
 
-![Preview](images\demo_stitched.png)
+![Preview](images/demo_stitched.png)
 
