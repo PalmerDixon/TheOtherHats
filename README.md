@@ -4,14 +4,14 @@ Custom Hats for the [Among Us](https://innersloth.com/gameAmongUs.php) Mod *[The
 
 ## Table of Contents
 
-**[About][#about]**
-&emsp;[Instructions][#instructions]
-[**Releases**][#releases]
-[**Custom Hats**][#custom-hats]
-&emsp;[Megaphone][#megaphone]
-&emsp;[Speech Bubble][#speech-bubble]
-&emsp;[Bones][#bones]
-&emsp;[Stitched Head][#stitched-head]
+[**About**](#about)
+&emsp;[Instructions](#instructions)
+[**Releases**](#releases)
+[**Custom Hats**](#custom-hats)
+&emsp;[Megaphone](#megaphone)
+&emsp;[Speech Bubble](#speech-bubble)
+&emsp;[Bones](#bones)
+&emsp;[Stitched Head](#stitched-head)
 
 ## About
 
