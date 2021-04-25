@@ -11,7 +11,7 @@ Custom Hats for the Among Us Mod 'The Other Roles'
 
 [Download](resources/hats/megaphone)
 
-![Preview](https://i.imgur.com/bk4Lymd.gifv)
+![Preview](images/demo_megaphone.gif)
 
 ### Speech Bubble
 
