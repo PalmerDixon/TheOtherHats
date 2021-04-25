@@ -56,9 +56,9 @@ Custom Hats for the [Among Us](https://innersloth.com/gameAmongUs.php) Mod *[The
 
 :arrow_down_small: [Download (empty bubble)](resources/hats/bubble/bubble-empty_bounce.png)
 
-|                                    |                                    |
-| ---------------------------------- | ---------------------------------- |
-| ![Preview](images/demo_bubble.png) | ![Demo](images/demo_bubble-bg.png) |
+|                                        |                                        |
+| -------------------------------------- | -------------------------------------- |
+| ![Preview](images/demo_bubble-lol.png) | ![Demo](images/demo_bubble-lol-bg.png) |
 
 ### Bones
 
