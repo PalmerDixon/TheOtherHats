@@ -3,18 +3,18 @@ Custom Hats for the [Among Us](https://innersloth.com/gameAmongUs.php) Mod *[The
 
 ## Table of Contents
 
-**[About][#about]**
-&emsp;[Instructions][#instructions]
-[**Releases**][#releases]
-[**Custom Hats**][#custom-hats]
-&emsp;[Megaphone][#megaphone]
-&emsp;[Speech Bubble][#speech-bubble]
-&emsp;[Bones][#bones]
-&emsp;[Stitched Head][#stitched-head]
+**[About](#about)**    
+&emsp;[Instructions](#instructions)    
+[**Releases**](#releases)    
+[**Custom Hats**](#custom-hats)    
+&emsp;[Megaphone](#megaphone)    
+&emsp;[Speech Bubble](#speech-bubble)    
+&emsp;[Bones](#bones)    
+&emsp;[Stitched Head](#stitched-head)    
 
 ## About
 
-:arrow_forward: [*TheOtherHats*](https://github.com/Eisbison/TheOtherRoles#custom-hats) by [**Eisbison**](https://github.com/Eisbison)
+:arrow_right: [*TheOtherHats*](https://github.com/Eisbison/TheOtherRoles#custom-hats) by [**Eisbison**](https://github.com/Eisbison)
 
 ### Instructions
 
@@ -43,37 +43,29 @@ Custom Hats for the [Among Us](https://innersloth.com/gameAmongUs.php) Mod *[The
 
 ### Megaphone
 
-:arrow_down: ​[Download](resources/hats/megaphone)
+► [Download](resources/hats/megaphone)
 
-|                                    |                                       |
-| ---------------------------------- | ------------------------------------- |
-| ![demo](images/demo_megaphone.png) | ![demo](images/demo_megaphone-bg.png) |
+|                                                              |                                       |
+| ------------------------------------------------------------ | ------------------------------------- |
+| ![still](images\demo_megaphone-still.png) | ![Preview](images/demo_megaphone.gif) |
 
 
 
 ### Speech Bubble
 
-:arrow_down: [Download (empty bubble)](resources/hats/speech-bubble/speech-bubble_bounce.png)
+► [Download (empty bubble)](resources/hats/speech-bubble/speech-bubble_bounce.png)
 
-|                                    |                                       |
-| ---------------------------------- | ------------------------------------- |
-| ![Preview](images/demo_bubble.png) | ![Preview](images/demo_bubble-bg.png) |
+![Preview](images/demo_speech-bubble.png)
 
 ### Bones
 
-:arrow_down: [Download](resources/hats/bones)
+► [Download](resources/hats/bones)
 
-|                                   |                                      |
-| --------------------------------- | ------------------------------------ |
-| ![Preview](images/demo_bones.png) | ![Preview](images/demo_bones-bg.png) |
-
-
+![Preview](images/demo_bones.png)
 
 ### Stitched Head
 
-:arrow_down: [Download](resources/hats/stitched/stitched.png)
+► [Download](resources/hats/stitched/stitched.png)
 
-|                                      |                                         |
-| ------------------------------------ | --------------------------------------- |
-| ![Preview](images/demo_stitched.png) | ![Preview](images/demo_stitched-bg.png) |
+![Preview](images/demo_stitched.png)
 
