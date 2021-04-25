@@ -14,7 +14,7 @@ Custom Hats for the [Among Us](https://innersloth.com/gameAmongUs.php) Mod *[The
 
 ## About
 
-:arrow_right: [*TheOtherHats*](https://github.com/Eisbison/TheOtherRoles#custom-hats) by [**Eisbison**](https://github.com/Eisbison)
+:arrow_forward: [*TheOtherHats*](https://github.com/Eisbison/TheOtherRoles#custom-hats) by [**Eisbison**](https://github.com/Eisbison)
 
 ### Instructions
 
@@ -43,7 +43,7 @@ Custom Hats for the [Among Us](https://innersloth.com/gameAmongUs.php) Mod *[The
 
 ### Megaphone
 
-► [Download](resources/hats/megaphone)
+:arrow_down: ​[Download](resources/hats/megaphone)
 
 |                                    |                                       |
 | ---------------------------------- | ------------------------------------- |
@@ -53,7 +53,7 @@ Custom Hats for the [Among Us](https://innersloth.com/gameAmongUs.php) Mod *[The
 
 ### Speech Bubble
 
-► [Download (empty bubble)](resources/hats/speech-bubble/speech-bubble_bounce.png)
+:arrow_down: [Download (empty bubble)](resources/hats/speech-bubble/speech-bubble_bounce.png)
 
 |                                    |                                       |
 | ---------------------------------- | ------------------------------------- |
@@ -61,7 +61,7 @@ Custom Hats for the [Among Us](https://innersloth.com/gameAmongUs.php) Mod *[The
 
 ### Bones
 
-► [Download](resources/hats/bones)
+:arrow_down: [Download](resources/hats/bones)
 
 |                                   |                                      |
 | --------------------------------- | ------------------------------------ |
@@ -71,7 +71,7 @@ Custom Hats for the [Among Us](https://innersloth.com/gameAmongUs.php) Mod *[The
 
 ### Stitched Head
 
-► [Download](resources/hats/stitched/stitched.png)
+:arrow_down: [Download](resources/hats/stitched/stitched.png)
 
 |                                      |                                         |
 | ------------------------------------ | --------------------------------------- |
