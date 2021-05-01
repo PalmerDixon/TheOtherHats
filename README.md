@@ -16,7 +16,7 @@ Custom Hats for the [Among Us](https://innersloth.com/gameAmongUs.php) Mod *[The
 
 ## Releases
 
-&emsp; *Coming soon…*
+&emsp; *N/A*
 
 ## Custom Hats
 
@@ -52,9 +52,9 @@ Custom Hats for the [Among Us](https://innersloth.com/gameAmongUs.php) Mod *[The
 
 :arrow_down_small: [Download](resources/hats/stitched)
 
-| v2                                      | v2                                               | v3                                      |
-| --------------------------------------- | ------------------------------------------------ | --------------------------------------- |
-| ![Preview](images/demo_stitched-v2.png) | ![Preview](images/demo_stitched-v2-bg.png)<br /> | ![Preview](images/demo_stitched-v3.png) |
+| v4                                   | v2                                               |
+| ------------------------------------ | ------------------------------------------------ |
+| ![Preview](images/demo_stitched.png) | ![Preview](images/demo_stitched-v2-bg.png)<br /> |
 
 ## About
 
