@@ -7,9 +7,9 @@ Custom Hats for the [Among Us](https://innersloth.com/gameAmongUs.php) Mod *[The
 [**Releases**](#releases)   
 [**Custom Hats**](#custom-hats)    
 &emsp;[Megaphone](#megaphone)    
+&emsp;[Stitched Head](#stitched-head)    
 &emsp;[Speech Bubble](#speech-bubble)    
 &emsp;[Bones](#bones)    
-&emsp;[Stitched Head](#stitched-head)    
 [**About**](#about)    
 &emsp;[Instructions](#instructions)    
 
@@ -29,6 +29,14 @@ Custom Hats for the [Among Us](https://innersloth.com/gameAmongUs.php) Mod *[The
 | ![Preview](images/demo_megaphone.png) | ![Demo](images/demo_megaphone-bg.png) |
 
 
+### Stitched Head
+
+:arrow_down_small: [Download](resources/hats/stitched)
+
+| v4                                   | v2                                               |
+| ------------------------------------ | ------------------------------------------------ |
+| ![Preview](images/demo_stitched.png) | ![Preview](images/demo_stitched-v2-bg.png)<br /> |
+
 
 ### Speech Bubble
 
@@ -46,15 +54,6 @@ Custom Hats for the [Among Us](https://innersloth.com/gameAmongUs.php) Mod *[The
 | --------------------------------- | --------------------------------- |
 | ![Preview](images/demo_bones.png) | ![Demo](images/demo_bones-bg.png) |
 
-
-
-### Stitched Head
-
-:arrow_down_small: [Download](resources/hats/stitched)
-
-| v4                                   | v2                                               |
-| ------------------------------------ | ------------------------------------------------ |
-| ![Preview](images/demo_stitched.png) | ![Preview](images/demo_stitched-v2-bg.png)<br /> |
 
 ## About
 
