@@ -33,18 +33,18 @@ Custom Hats for the [Among Us](https://innersloth.com/gameAmongUs.php) Mod *[The
 
 :arrow_down_small: [Download](resources/hats/stitched)
 
-| v4                                   | v2                                               |
-| ------------------------------------ | ------------------------------------------------ |
-| ![Preview](images/demo_stitched.png) | ![Preview](images/demo_stitched-v2-bg.png)<br /> |
+|                                      |                                               |
+| ------------------------------------ | --------------------------------------------- |
+| ![Preview](images/demo_stitched.png) | ![Preview](images/demo_stitched-bg.png)<br /> |
 
 
 ### Speech Bubble
 
 :arrow_down_small: [Download (empty bubble)](resources/hats/bubble/bubble-empty_bounce.png)
 
-|                                        |                                        |
-| -------------------------------------- | -------------------------------------- |
-| ![Preview](images/demo_bubble-lol.png) | ![Demo](images/demo_bubble-lol-bg.png) |
+|                                          |                                        |
+| ---------------------------------------- | -------------------------------------- |
+| ![Preview](images/demo_bubble-empty.png) | ![Demo](images/demo_bubble-lol-bg.png) |
 
 ### Bones
 
