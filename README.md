@@ -6,10 +6,10 @@ Custom Hats for the [Among Us](https://innersloth.com/gameAmongUs.php) Mod *[The
 
 [**Releases**](#releases)   
 [**Custom Hats**](#custom-hats)    
-&emsp;[Sunglasses](#sunglasses)
-&emsp;[HJS](#hjs)
-&emsp;[Press](#press)
-&emsp;[Jetpack](#jetpack)
+&emsp;[Sunglasses](#sunglasses)    
+&emsp;[HJS](#hjs)    
+&emsp;[Press](#press)    
+&emsp;[Jetpack](#jetpack)    
 &emsp;[Megaphone](#megaphone)    
 &emsp;[Stitched Head](#stitched-head)    
 &emsp;[Speech Bubble](#speech-bubble)    
@@ -21,6 +21,7 @@ Custom Hats for the [Among Us](https://innersloth.com/gameAmongUs.php) Mod *[The
 ## Releases
 
 &emsp; *N/A*
+
 
 ## Custom Hats
 
