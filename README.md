@@ -6,8 +6,10 @@ Custom Hats for the [Among Us](https://innersloth.com/gameAmongUs.php) Mod *[The
 
 [**Releases**](#releases)   
 [**Custom Hats**](#custom-hats)    
+&emsp;[Pockets](#pockets)    
+&emsp;[Camera](#camera)    
 &emsp;[Sunglasses](#sunglasses)    
-&emsp;[HJS](#hjs)    
+&emsp;[DonutLover](#donutlover)    
 &emsp;[Press](#press)    
 &emsp;[Jetpack](#jetpack)    
 &emsp;[Megaphone](#megaphone)    
@@ -25,6 +27,24 @@ Custom Hats for the [Among Us](https://innersloth.com/gameAmongUs.php) Mod *[The
 
 ## Custom Hats
 
+*CustomHats* that are marked with "♦" are available to play in [*TheOtherRoles*](https://github.com/Eisbison/TheOtherRoles).
+
+### Pockets
+
+:arrow_down_small: ​[Download](resources/hats/pockets)
+
+|                                   |                                   |
+| --------------------------------- | --------------------------------- |
+| ![Preview](images/demo_pockets.anim.webp) | ![Demo](images/demo_pockets-bg.png) |
+
+### Camera
+
+:arrow_down_small: ​[Download](resources/hats/camera)
+
+|                                   |                                   |
+| --------------------------------- | --------------------------------- |
+| ![Preview](images/demo_camera.png) | ![Demo](images/demo_camera-bg.png) |
+
 ### Sunglasses
 
 :arrow_down_small: ​[Download](resources/hats/sunglasses)
@@ -33,15 +53,15 @@ Custom Hats for the [Among Us](https://innersloth.com/gameAmongUs.php) Mod *[The
 | --------------------------------- | --------------------------------- |
 | ![Preview](images/demo_sunglasses.png) | ![Demo](images/demo_sunglasses-bg.png) |
 
-### HJS
+### DonutLover ♦
 
-:arrow_down_small: ​[Download](resources/hats/hjs)
+:arrow_down_small: ​[Download](resources/hats/DonutLover)
 
 |                                   |                                   |
 | --------------------------------- | --------------------------------- |
-| ![Preview](images/demo_hjs.png) | ![Demo](images/demo_hjs-bg.png) |
+| ![Preview](images/demo_DonutLover.png) | ![Demo](images/demo_DonutLover-bg.png) |
 
-### Press
+### Press ♦
 
 :arrow_down_small: ​[Download](resources/hats/press)
 
@@ -49,7 +69,7 @@ Custom Hats for the [Among Us](https://innersloth.com/gameAmongUs.php) Mod *[The
 | --------------------------------- | --------------------------------- |
 | ![Preview](images/demo_press.png) | ![Demo](images/demo_press-bg.png) |
 
-### Jetpack
+### Jetpack ♦
 
 :arrow_down_small: ​[Download](resources/hats/jetpack)
 
@@ -57,7 +77,7 @@ Custom Hats for the [Among Us](https://innersloth.com/gameAmongUs.php) Mod *[The
 | ----------------------------------- | ----------------------------------- |
 | ![Preview](images/demo_jetpack.png) | ![Demo](images/demo_jetpack-bg.png) |
 
-### Megaphone
+### Megaphone ♦
 
 :arrow_down_small: ​[Download](resources/hats/megaphone)
 
