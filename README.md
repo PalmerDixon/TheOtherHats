@@ -4,7 +4,7 @@ Custom Hats for the [Among Us](https://innersloth.com/gameAmongUs.php) Mod *[The
 
 ## Table of Contents
 
-[**Releases**](#releases)   
+[**Download**](#download)   
 [**Custom Hats**](#custom-hats)    
 &emsp;[Pockets](#pockets)    
 &emsp;[Camera](#camera)    
@@ -20,9 +20,9 @@ Custom Hats for the [Among Us](https://innersloth.com/gameAmongUs.php) Mod *[The
 &emsp;[Instructions](#instructions)    
 
 
-## Releases
+## Download
 
-&emsp; *N/A*
+[Download **all**](downloads/_all.zip?raw=true)
 
 
 ## Custom Hats
