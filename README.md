@@ -31,7 +31,7 @@ Custom Hats for the [Among Us](https://innersloth.com/gameAmongUs.php) Mod *[The
 
 ### Pockets
 
-:arrow_down_small: [Download](raw/main/downloads/pockets.zip)
+:arrow_down_small: [Download](downloads/pockets.zip?raw=true)
 
 |                                   |                                   |
 | --------------------------------- | --------------------------------- |
@@ -39,7 +39,7 @@ Custom Hats for the [Among Us](https://innersloth.com/gameAmongUs.php) Mod *[The
 
 ### Camera
 
-:arrow_down_small: [Download](raw/main/downloads/camera.zip)
+:arrow_down_small: [Download](downloads/camera.zip?raw=true)
 
 |                                   |                                   |
 | --------------------------------- | --------------------------------- |
@@ -47,7 +47,7 @@ Custom Hats for the [Among Us](https://innersloth.com/gameAmongUs.php) Mod *[The
 
 ### Sunglasses
 
-:arrow_down_small: [Download](raw/main/downloads/sunglasses.zip)
+:arrow_down_small: [Download](downloads/sunglasses.zip?raw=true)
 
 |                                   |                                   |
 | --------------------------------- | --------------------------------- |
@@ -55,7 +55,7 @@ Custom Hats for the [Among Us](https://innersloth.com/gameAmongUs.php) Mod *[The
 
 ### DonutLover ♦
 
-:arrow_down_small: [Download](raw/main/downloads/DonutLover.zip)
+:arrow_down_small: [Download](downloads/DonutLover.zip?raw=true)
 
 |                                   |                                   |
 | --------------------------------- | --------------------------------- |
@@ -63,7 +63,7 @@ Custom Hats for the [Among Us](https://innersloth.com/gameAmongUs.php) Mod *[The
 
 ### Press ♦
 
-:arrow_down_small: [Download](raw/main/downloads/press.zip)
+:arrow_down_small: [Download](downloads/press.zip?raw=true)
 
 |                                   |                                   |
 | --------------------------------- | --------------------------------- |
@@ -71,7 +71,7 @@ Custom Hats for the [Among Us](https://innersloth.com/gameAmongUs.php) Mod *[The
 
 ### Jetpack ♦
 
-:arrow_down_small: [Download](raw/main/downloads/jetpack.zip)
+:arrow_down_small: [Download](downloads/jetpack.zip?raw=true)
 
 |                                     |                                     |
 | ----------------------------------- | ----------------------------------- |
@@ -79,7 +79,7 @@ Custom Hats for the [Among Us](https://innersloth.com/gameAmongUs.php) Mod *[The
 
 ### Megaphone ♦
 
-:arrow_down_small: [Download](raw/main/downloads/megaphone.zip)
+:arrow_down_small: [Download](downloads/megaphone.zip?raw=true)
 
 |                                       |                                       |
 | ------------------------------------- | ------------------------------------- |
@@ -88,7 +88,7 @@ Custom Hats for the [Among Us](https://innersloth.com/gameAmongUs.php) Mod *[The
 
 ### Stitched Head
 
-:arrow_down_small: [Download](raw/main/downloads/stitched.zip)
+:arrow_down_small: [Download](downloads/stitched.zip?raw=true)
 
 |                                      |                                               |
 | ------------------------------------ | --------------------------------------------- |
@@ -97,7 +97,7 @@ Custom Hats for the [Among Us](https://innersloth.com/gameAmongUs.php) Mod *[The
 
 ### Speech Bubble
 
-:arrow_down_small: [Download (empty bubble)](raw/main/downloads/bubble.zip)
+:arrow_down_small: [Download (empty bubble)](downloads/bubble.zip?raw=true)
 
 |                                          |                                        |
 | ---------------------------------------- | -------------------------------------- |
@@ -105,7 +105,7 @@ Custom Hats for the [Among Us](https://innersloth.com/gameAmongUs.php) Mod *[The
 
 ### Bones
 
-:arrow_down_small: [Download](raw/main/downloads/bones.zip)
+:arrow_down_small: [Download](downloads/bones.zip?raw=true)
 
 |                                   |                                   |
 | --------------------------------- | --------------------------------- |
