@@ -6,6 +6,7 @@ Custom Hats for the [Among Us](https://innersloth.com/gameAmongUs.php) Mod *[The
 
 [**Download**](#download)   
 [**Custom Hats**](#custom-hats)    
+&emsp;[Unitard](#unitard)    
 &emsp;[Pockets](#pockets)    
 &emsp;[Camera](#camera)    
 &emsp;[Sunglasses](#sunglasses)    
@@ -22,14 +23,22 @@ Custom Hats for the [Among Us](https://innersloth.com/gameAmongUs.php) Mod *[The
 
 ## Download
 
-[Download **all**](downloads/_all.zip?raw=true)
+[**Download ALL**](downloads/_all.zip?raw=true)
 
 
 ## Custom Hats
 
 *CustomHats* that are marked with "♦" are available to play in [*TheOtherRoles*](https://github.com/Eisbison/TheOtherRoles).
 
-### Pockets
+### Unitard
+
+:arrow_down_small: [Download](downloads/unitard.zip?raw=true)
+
+|                                   |                                   |
+| --------------------------------- | --------------------------------- |
+| ![Preview](images/demo_unitard.png) | ![Demo](images/demo_unitard-bg.png) |
+
+### Pockets ♦
 
 :arrow_down_small: [Download](downloads/pockets.zip?raw=true)
 
@@ -37,7 +46,7 @@ Custom Hats for the [Among Us](https://innersloth.com/gameAmongUs.php) Mod *[The
 | --------------------------------- | --------------------------------- |
 | ![Preview](images/demo_pockets.anim.webp) | ![Demo](images/demo_pockets-bg.png) |
 
-### Camera
+### Camera ♦
 
 :arrow_down_small: [Download](downloads/camera.zip?raw=true)
 
